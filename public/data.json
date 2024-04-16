@@ -1,0 +1,40 @@
+[
+
+    {
+        "id": 1,
+        "name": "Alimento cerdo",
+        "series": "Alimentos Arandas",
+        "price": 599,	
+        "img": "img/Alimento para cerdo.png",
+        "quanty": 1
+        
+    },
+
+    {
+        "id": 2,
+        "name": "Alimento caballos",
+        "series": "Alimentos Arandas Premium",
+        "price": 915,	
+        "img": "img/Alimento para caballo.png",
+        "quanty": 1
+    },
+    
+    {
+        "id": 3,
+        "name": "Alimento bovino engorda",
+        "series": "Alimentos Arandas",
+        "price": 769,	
+        "img": "img/Alimento para bovino.png",
+        "quanty": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Alimento bovino lechero",
+        "series": "Alimentos Arandas",
+        "price": 800,	
+        "img": "img/Alimento para lechero.png",
+        "quanty": 1
+    }
+
+]

@@ -1,0 +1,30 @@
+.nav.container {
+    position: sticky;
+    z-index: 3; /* Para que esté por encima de los demás elementos */
+    top: 0;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 15hv;
+    background-color: black;
+}    
+
+.navbar-logo{
+    justify-self: start;
+    margin-left: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.seeCarrito{
+    font-size: 50px;
+    margin-right: 20px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration: none;
+}
